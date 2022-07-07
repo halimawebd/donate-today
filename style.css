@@ -138,13 +138,13 @@ section{
 .fixed-width{
     /* background: black; */
 }
-footer h2{
+footer{
    color: red;
    font-style: italic;
    background-color: black;
 }
 footer span{
-    color: black;
+    color: white;
     font-size: 14px;
     
 }
